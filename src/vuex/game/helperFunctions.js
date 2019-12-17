@@ -13,7 +13,7 @@ export function weightedRandom(pool){
   for(let i in pool){
     total += pool[i][1];
   }
-  let rand = this.random(total);
+  let rand = random(total);
   let sum = 0;
   for(let i in pool){
     sum += pool[i][1];

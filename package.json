@@ -2,7 +2,7 @@
   "name": "rpg",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/joeweston/prototype_vuex_game.git",
+  "homepage": "https://github.com/joeweston/prototype_vuex_game",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
