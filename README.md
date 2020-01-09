@@ -1,5 +1,10 @@
 # rpg
 
+## Description
+```
+Made using vue.js with vuex using OOP and tested with jest. This is a game to showcase my Javascript skills in the context a frontend framwork.
+```
+
 ## Project setup
 ```
 npm install
