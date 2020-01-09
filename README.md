@@ -1,4 +1,4 @@
-# rpg
+# Protoype Vuex Game
 
 ## Description
 ```
